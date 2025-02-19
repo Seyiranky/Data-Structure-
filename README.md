@@ -30,8 +30,7 @@ Sparse_matrix/
 │── code/
 │   ├── src/
 │   │   ├── main.py  # Entry point of the program
-│   │   ├── sparse_matrix.py  # SparseMatrix class implementation
-│   │   ├── operations.py  # Matrix operations (addition, subtraction, multiplication)
+
 │── sample_inputs/
 │   ├── matrixfile1.txt  # Sample input matrix
 │   ├── easy_sample_04_1.txt  # Another sample input matrix
