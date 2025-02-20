@@ -101,7 +101,7 @@ cols=3
 ```sh
 Sparse Matrix Operations
 Enter path for first matrix file: sample_inputs/matrixfile1.txt
-Enter path for second matrix file: sample_inputs/easy_sample_04_1.txt
+Enter path for second matrix file: sample_inputs/matrixfile2.txt
 Choose operation:
 1. Addition
 2. Subtraction
